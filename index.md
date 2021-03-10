@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/miles-tseng/miles-tseng.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Configuration
+
+```markdown
+100G x 1 -> 50G x 2
+100G x 1 -> 25G x 4
+400G x 1 -> 50G x 8
+ 
+100g_to_50g_x2.sh
+100g_to_25g_x4.sh
+400g_to_50g_x8.sh
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
